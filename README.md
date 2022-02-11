@@ -12,3 +12,5 @@ W - Rotate forward
 S - Rotate back  
 A - Rotate clockwise  
 D - Rotate anti-clockwise  
+F - Zomm out  
+R - Zoom in  
