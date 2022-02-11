@@ -1,0 +1,9 @@
+﻿  geometry_utils.cpp
+  Matrix.cpp
+  Vector.cpp
+D:\KDU\[Dated] 2020-1\3D Game Programming\git_TextureDemo\TextureDemo\shader_vertex2a\shader_blur\angle_util\Vector.cpp(26,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\KDU\[Dated] 2020-1\3D Game Programming\git_TextureDemo\TextureDemo\shader_vertex2a\shader_blur\angle_util\Vector.cpp(65,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\KDU\[Dated] 2020-1\3D Game Programming\git_TextureDemo\TextureDemo\shader_vertex2a\shader_blur\angle_util\Vector.cpp(164,24): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  demo.cpp
+  Generating Code...
+  shader_blur.vcxproj -> D:\KDU\[Dated] 2020-1\3D Game Programming\git_TextureDemo\TextureDemo\shader_vertex2a\Debug\shader_blur.exe
